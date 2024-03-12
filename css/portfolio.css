@@ -341,3 +341,10 @@ div.card-content p {
   top: 40px;
   left: 32px;
 }
+
+.navbar-list-item-active {
+  color: #404bbf;
+  border-bottom: 5px solid #404bbf;
+  border-radius: 2px;
+  padding-bottom: 24px;
+}

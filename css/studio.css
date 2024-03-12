@@ -589,3 +589,10 @@ div.container-footer p {
   border-color: #e7e9fc;
   outline: none;
 }
+
+.navbar-list-item-active {
+  color: #404bbf;
+  border-bottom: 5px solid #404bbf;
+  border-radius: 2px;
+  padding-bottom: 24px;
+}
